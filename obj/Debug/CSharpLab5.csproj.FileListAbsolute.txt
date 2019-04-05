@@ -1,0 +1,15 @@
+C:\Users\Oleksandra\CSharpKmaLab05Process\bin\Debug\CSharpLab5.exe.config
+C:\Users\Oleksandra\CSharpKmaLab05Process\bin\Debug\CSharpLab5.exe
+C:\Users\Oleksandra\CSharpKmaLab05Process\bin\Debug\CSharpLab5.pdb
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.csprojAssemblyReference.cache
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\MainWindow.g.cs
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\App.g.cs
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5_MarkupCompile.cache
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5_MarkupCompile.lref
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\MainWindow.baml
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.g.resources
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.Properties.Resources.resources
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.csproj.GenerateResource.cache
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.exe
+C:\Users\Oleksandra\CSharpKmaLab05Process\obj\Debug\CSharpLab5.pdb
